@@ -1,0 +1,3 @@
+Record ID,Patient ID,Patient Name,Doctor ID,Doctor Name,Visit Date,Diagnosis,Treatment,Notes,Follow Up
+fd333337,b43ccc35,Jack,dca92432,Dr Henry,2025-03-26,Hayfever,Regular check up and blood tests,got infection,No
+ba34e763,8a33db8f,Arsh,dca92432,Dr Henry,2025-03-28,no,no,no,No

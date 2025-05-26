@@ -1,0 +1,4 @@
+Prescription ID,Patient ID,Patient Name,Doctor ID,Doctor Name,Medication,Dosage,Instructions,Issue Date,Expiry Date
+6ed152be,b43ccc35,Jack,dca92432,Dr Henry,Paracetamol,2 pills 2 times a day,continue this for a week,2025-03-26,2025-04-12
+030bea7a,8a33db8f,Arsh,dca92432,Dr Henry,paracetamol,1 a day,none,2025-03-28,2026-03-05
+c5faa4d3,8a33db8f,Arsh,dca92432,Dr Henry,cocodomol,1 a day,no,2025-03-28,2025-04-08

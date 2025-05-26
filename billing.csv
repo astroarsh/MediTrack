@@ -1,0 +1,7 @@
+Invoice ID,Patient Name,Amount,Payment Method,Status
+ae0722b4,cf7c7d0e,,100£,Debit Card,Paid,2025-03-26
+93344cc8,b43ccc35,Jack,100£,Debit Card,Paid,2025-03-26
+aa932ace,b43ccc35,Jack,100.0,Credit Card,Paid,2025-03-27
+98cc39e7,b43ccc35,Jack,100.0,Credit Card,Paid,2025-03-28
+e75a1d1a,ff8b5966,sahil,10,Debit Card,Paid,2025-03-28
+d709120b,8a33db8f,Arsh,29,Debit Card,Paid,2025-03-28

@@ -1,0 +1,6 @@
+Appointment ID,Patient Name,Doctor Name,Date,Time,Reason,Status
+
+d1a98f9f,b43ccc35,Jack,dca92432,Dr Henry,2025-03-27,10:10,blood test,Scheduled
+f1147bcc,8a33db8f,Arsh,45adab2f,Dr James,2025-03-28,12:00,missing you badly,Scheduled
+b4aa3e96,ff8b5966,sahil,7c8957ef,Dr Emma,2025-04-01,10:00,fever,Scheduled
+f455eb96,8a33db8f,Arsh,dca92432,Dr Henry,2025-04-01,12:30,fever,Scheduled
